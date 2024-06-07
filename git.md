@@ -57,6 +57,12 @@ git merge feature/add-file-txt
 
 ```sh
 git rebase -i HEAD~[n]
+
+choose s to squash and p to pick the commit 
+
+save and close 
+
+change commit message
 ```
 > Squash and combine multiple commit
 
