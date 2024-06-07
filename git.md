@@ -55,8 +55,10 @@ git merge feature/add-file-txt
 > Merge all features from a branch to a common branch. 
 
 
-
-
+```sh
+git rebase -i HEAD~[n]
+```
+> Squash and combine multiple commit
 
 
 

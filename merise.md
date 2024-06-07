@@ -79,4 +79,6 @@ Vérifier que la 2NF est respecter en pensant aux redondances de données. Une 2
 
 Doit être en 2NF + chaque champ doit dépendre de la clé primaire et non d'une clé étrangère sur la table ou sur un autre champ de la table. Tous les champs dans une table doivent dépendre d'une clé primaire et être relié à celle-ci. 
 
+### 
 
+tests de commit
